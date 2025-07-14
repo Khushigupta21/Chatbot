@@ -17,8 +17,8 @@ SITES = [
     "https://www.bankofbaroda.in/",
 ]
 
-CHROMEDRIVER_PATH = "/home/khushi/Test_case/Chatbot/chromedriver"
-CHROME_BINARY_PATH = "/usr/bin/google-chrome"
+CHROMEDRIVER_PATH = "chromedriver-path" #change as per need
+CHROME_BINARY_PATH = "google-chrome" #change as per need
 HEADLESS = True
 
 VENDOR_HINTS = [
